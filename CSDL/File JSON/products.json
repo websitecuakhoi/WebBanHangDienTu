@@ -1,0 +1,606 @@
+[{
+  "_id": {
+    "$oid": "65879e5c8415c929a8a826cb"
+  },
+  "name": "Samsung Galaxy A15",
+  "description": "Chip MediaTek Helio G99\r\nRAM: 8 GB\r\nDung lượng: 128 GB\r\nCamera sau: Chính 50 MP & Phụ 5 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+  "brand": "samsung",
+  "category": "điện thoại",
+  "colors": [
+    "black",
+    "red",
+    "blue"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386715/blog-api/h2k4qaeqqvwp0hjvcm4r.jpg"
+  ],
+  "reviews": [
+    {
+      "$oid": "658947ab038cff3a16dc6f5c"
+    }
+  ],
+  "price": 100,
+  "totalQty": 20,
+  "totalSold": 3,
+  "createdAt": {
+    "$date": "2023-12-24T02:58:36.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T09:27:38.353Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65879eb58415c929a8a826eb"
+  },
+  "name": "Samsung Galaxy A15 5G",
+  "description": "Chip MediaTek Dimensity 6100+\r\nRAM: 8 GB\r\nDung lượng: 256 GB\r\nCamera sau: Chính 50 MP & Phụ 5 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+  "brand": "samsung",
+  "category": "điện thoại",
+  "colors": [
+    "red",
+    "white",
+    "green"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386805/blog-api/vmcxr0lihg8bgjtb5prg.jpg"
+  ],
+  "reviews": [
+    {
+      "$oid": "65879ff98415c929a8a8277f"
+    }
+  ],
+  "price": 200,
+  "totalQty": 24,
+  "totalSold": 2,
+  "createdAt": {
+    "$date": "2023-12-24T03:00:05.845Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T10:03:52.581Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65879f1b8415c929a8a82705"
+  },
+  "name": "Samsung Galaxy A25 5G",
+  "description": "Chip Exynos 1280\r\nRAM: 8 GB\r\nDung lượng: 128 GB\r\nCamera sau: Chính 50 MP & Phụ 8 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+  "brand": "samsung",
+  "category": "điện thoại",
+  "colors": [
+    "yellow",
+    "red",
+    "black",
+    "white"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386906/blog-api/wbvx1cvz3rgl5dhrydfc.jpg"
+  ],
+  "reviews": [],
+  "price": 300,
+  "totalQty": 25,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:01:47.364Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:01:47.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65879f658415c929a8a82725"
+  },
+  "name": "Samsung Galaxy S23 FE 5G",
+  "description": "Chip Exynos 2200 8 nhân\r\nRAM: 8 GB\r\nDung lượng: 128 GB\r\nCamera sau: Chính 50 MP & Phụ 12 MP, 8 MP\r\nCamera trước: 10 MP\r\nPin 4500 mAh, Sạc 25 W",
+  "brand": "samsung",
+  "category": "điện thoại",
+  "colors": [
+    "white",
+    "blue",
+    "green",
+    "red"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386980/blog-api/ermfuiyttyhu8nsqxe3w.jpg",
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386980/blog-api/ejjtullyrndze2ansyly.jpg"
+  ],
+  "reviews": [
+    {
+      "$oid": "65879fd18415c929a8a8275e"
+    }
+  ],
+  "price": 498,
+  "totalQty": 35,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:03:01.342Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:04:49.917Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65879fb38415c929a8a8274f"
+  },
+  "name": "Samsung Galaxy Z Fold5 5G",
+  "description": "Chip Snapdragon 8 Gen 2 for Galaxy\r\nRAM: 12 GB\r\nDung lượng: 256 GB\r\nCamera sau: Chính 50 MP & Phụ 12 MP, 10 MP\r\nCamera trước: 10 MP & 4 MP\r\nPin 4400 mAh, Sạc 25 W",
+  "brand": "samsung",
+  "category": "điện thoại",
+  "colors": [
+    "white",
+    "blue",
+    "green"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387058/blog-api/u5l2yomg1s5bz5nregrm.jpg",
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387059/blog-api/oi0ugrasquizlzuer4mo.jpg"
+  ],
+  "reviews": [],
+  "price": 700,
+  "totalQty": 36,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:04:19.844Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:04:19.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a18e8415c929a8a828cc"
+  },
+  "name": "Asus TUF Gaming F15 FX506HF i5 11400H (HN014W)",
+  "description": "Màn hình: 15.6\", Full HD, 144Hz\r\nCPU: i5, 11400H, 2.7GHz\r\nCard: RTX 2050 4GB\r\nPin: 3-cell, 48Wh\r\nKhối lượng: 2.3 kg",
+  "brand": "asus",
+  "category": "laptop",
+  "colors": [
+    "black",
+    "white"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387534/blog-api/u0vgyq9jv0lk7ghzcc8z.jpg"
+  ],
+  "reviews": [],
+  "price": 350,
+  "totalQty": 55,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:12:14.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:12:14.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a2038415c929a8a828f7"
+  },
+  "name": "Acer Aspire 5 Gaming A515 58GM 51LB i5 13420H",
+  "description": "Màn hình: 15.6\", Full HD\r\nCPU: i5, 13420H, 2.1GHz\r\nCard: RTX 2050 4GB\r\nPin: 3-cell, 50Wh\r\nKhối lượng: 1.7 kg",
+  "brand": "acer",
+  "category": "laptop",
+  "colors": [
+    "black",
+    "white",
+    "blue"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387650/blog-api/rxr1eamsym0e0dci44zi.jpg"
+  ],
+  "reviews": [],
+  "price": 500,
+  "totalQty": 14,
+  "totalSold": 2,
+  "createdAt": {
+    "$date": "2023-12-24T03:14:11.093Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T05:13:10.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a2428415c929a8a828ff"
+  },
+  "name": "Lenovo Ideapad Gaming 3 15ACH6 R5 5500H",
+  "description": "Màn hình: 15.6\", Full HD, 144Hz\r\nCPU: Ryzen 5, 5500H, 3.3GHz\r\nCard: RTX 2050 4GB\r\nPin: 45Wh\r\nKhối lượng: 2.25 kg",
+  "brand": "lenovo",
+  "category": "laptop",
+  "colors": [
+    "black",
+    "white",
+    "blue"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387714/blog-api/vczmn5x2xd7c4orkvpua.jpg"
+  ],
+  "reviews": [
+    {
+      "$oid": "6588ddc29a22bd38fb610c19"
+    }
+  ],
+  "price": 655,
+  "totalQty": 25,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:15:14.713Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T01:41:22.341Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6587a26f8415c929a8a82919"
+  },
+  "name": "HP Gaming VICTUS 15 fa1139TX i5 12450H",
+  "description": "Màn hình: 15.6\", Full HD, 144Hz\r\nCPU: i5, 12450H, 2GHz\r\nCard: RTX 2050 4GB\r\nPin: 3-cell, 52.5Wh\r\nKhối lượng: 2.29 kg",
+  "brand": "hp",
+  "category": "laptop",
+  "colors": [
+    "blue",
+    "black"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387759/blog-api/ku6fjmx1thvpshlm7al2.jpg"
+  ],
+  "reviews": [],
+  "price": 755,
+  "totalQty": 15,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:15:59.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:15:59.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a2af8415c929a8a8293f"
+  },
+  "name": "MSI Gaming GF63 12UCX i5 12450H (841VN)",
+  "description": "Màn hình: 15.6\", Full HD, 144Hz\r\nCPU: i5, 12450H, 2GHz\r\nCard: RTX 2050 4GB\r\nPin: 3-cell Li-ion, 52.4 Wh\r\nKhối lượng: 1.86 kg",
+  "brand": "msi",
+  "category": "laptop",
+  "colors": [
+    "white",
+    "green"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387823/blog-api/qinqveqrjy8sl1t4rmtn.jpg"
+  ],
+  "reviews": [],
+  "price": 968,
+  "totalQty": 8,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:17:03.560Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:17:03.560Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a2ed8415c929a8a82959"
+  },
+  "name": "Asus TUF Gaming F15",
+  "description": "Màn hình: 15.6\", Full HD, 144Hz\r\nCPU: i5, 12500H, 2.5GHz\r\nCard: RTX 3050 4GB\r\nPin: 4-cell, 56Wh\r\nKhối lượng: 2.2 kg",
+  "brand": "asus",
+  "category": "laptop",
+  "colors": [
+    "white",
+    "green",
+    "black",
+    "yellow"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387884/blog-api/i9ddc6ikiftwu6usu7s5.jpg"
+  ],
+  "reviews": [],
+  "price": 855,
+  "totalQty": 13,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:18:05.325Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:18:05.325Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a3e28415c929a8a829d7"
+  },
+  "name": "Samsung Galaxy Tab A9+",
+  "description": "Công nghệ màn hình:TFT LCD\r\nĐộ phân giải:8 MP",
+  "brand": "samsung",
+  "category": "table",
+  "colors": [
+    "blue",
+    "black",
+    "red"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388130/blog-api/kbyccwzrpikkqfqqygdt.jpg"
+  ],
+  "reviews": [],
+  "price": 155,
+  "totalQty": 25,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:22:10.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:22:10.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a4798415c929a8a82a47"
+  },
+  "name": "Samsung Galaxy Tab A7 Lite",
+  "description": "Công nghệ màn hình: TFT LCD\r\nĐộ phân giải: 8 MP",
+  "brand": "samsung",
+  "category": "table",
+  "colors": [
+    "blue",
+    "black"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388281/blog-api/vuukcs5295hmpeol9udt.jpg"
+  ],
+  "reviews": [],
+  "price": 254,
+  "totalQty": 24,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:24:41.814Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:24:41.814Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a4c18415c929a8a82a4f"
+  },
+  "name": "Samsung Galaxy Tab A8 (2022)",
+  "description": "Công nghệ màn hình: TDF LCD\r\nĐộ phân giải: 25 MP\r\n",
+  "brand": "samsung",
+  "category": "table",
+  "colors": [
+    "blue",
+    "black"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388352/blog-api/rwmkzytopfetrtqinu9t.jpg",
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388352/blog-api/mpbctcpbmqrnpjdfc4tx.jpg"
+  ],
+  "reviews": [],
+  "price": 355,
+  "totalQty": 23,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:25:53.312Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:25:53.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a5178415c929a8a82a8d"
+  },
+  "name": "Samsung Galaxy Tab S9+ 5G",
+  "description": "Công nghệ màn hình:  LCD\r\nĐộ phân giải: 64 MP\r\n",
+  "brand": "samsung",
+  "category": "table",
+  "colors": [
+    "white",
+    "green",
+    "black"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388439/blog-api/nxcuavn4vlzs6sub1kth.jpg"
+  ],
+  "reviews": [],
+  "price": 555,
+  "totalQty": 17,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:27:19.882Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:27:19.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a5518415c929a8a82ab9"
+  },
+  "name": "Samsung Galaxy Tab S9 WiFi",
+  "description": "Công nghệ màn hình: TFT LCD\r\nĐộ phân giải: 285 MP\r\n",
+  "brand": "samsung",
+  "category": "table",
+  "colors": [
+    "blue",
+    "green",
+    "white"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388496/blog-api/lpt6mhpigxm1bjqx9p7n.jpg",
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388496/blog-api/l9vmpfxltknqrthonyji.jpg"
+  ],
+  "reviews": [],
+  "price": 754,
+  "totalQty": 45,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:28:17.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:28:17.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a5f08415c929a8a82af9"
+  },
+  "name": "HP ProOne 440 G9 AIO i5",
+  "description": "Ram: 8GB\r\nSSD: 256 GB\r\n",
+  "brand": "hp",
+  "category": "pc",
+  "colors": [
+    "white",
+    "blue",
+    "red"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388656/blog-api/zb4mtteqvv0e350khhkf.jpg"
+  ],
+  "reviews": [],
+  "price": 155,
+  "totalQty": 25,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:30:56.610Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:30:56.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a6178415c929a8a82b01"
+  },
+  "name": "HP AIO 22 dd2002d i5 1235U",
+  "description": "Ram: 8GB\r\nSSD: 256 GB\r\n",
+  "brand": "hp",
+  "category": "pc",
+  "colors": [
+    "white",
+    "blue",
+    "green",
+    "black"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388695/blog-api/xqi61omaj4qxx2p7ot66.jpg"
+  ],
+  "reviews": [],
+  "price": 567,
+  "totalQty": 21,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:31:35.967Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:31:35.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6587a6468415c929a8a82b09"
+  },
+  "name": "HP AIO ProOne 240 G9 i3 1215U",
+  "description": "Ram: 15GB\r\nSSD: 256 GB\r\n",
+  "brand": "hp",
+  "category": "pc",
+  "colors": [
+    "white"
+  ],
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "images": [
+    "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703388741/blog-api/xp4xg6prcrmnezocyu18.jpg"
+  ],
+  "reviews": [],
+  "price": 145,
+  "totalQty": 15,
+  "totalSold": 0,
+  "createdAt": {
+    "$date": "2023-12-24T03:32:22.288Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:32:22.288Z"
+  },
+  "__v": 0
+}]

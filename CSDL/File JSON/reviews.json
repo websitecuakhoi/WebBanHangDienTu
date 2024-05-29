@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65879fd18415c929a8a8275e"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "product": {
+    "$oid": "65879f658415c929a8a82725"
+  },
+  "message": "sản phẩm tốt",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2023-12-24T03:04:49.837Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:04:49.837Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65879ff98415c929a8a8277f"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "product": {
+    "$oid": "65879eb58415c929a8a826eb"
+  },
+  "message": "tốt",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2023-12-24T03:05:29.320Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:05:29.320Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6588ddc29a22bd38fb610c19"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "product": {
+    "$oid": "6587a2428415c929a8a828ff"
+  },
+  "message": "nice",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2023-12-25T01:41:22.199Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T01:41:22.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658947ab038cff3a16dc6f5c"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "product": {
+    "$oid": "65879e5c8415c929a8a826cb"
+  },
+  "message": "Rất tuyệt",
+  "rating": 5,
+  "createdAt": {
+    "$date": "2023-12-25T09:13:15.461Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T09:13:15.461Z"
+  },
+  "__v": 0
+}]

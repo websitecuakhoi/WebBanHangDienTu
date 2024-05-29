@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "65879d6e8415c929a8a82613"
+  },
+  "name": "điện thoại",
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386478/blog-api/ybcqg3fw5wyh8sxp7e6p.jpg",
+  "products": [
+    {
+      "$oid": "65879e5c8415c929a8a826cb"
+    },
+    {
+      "$oid": "65879eb58415c929a8a826eb"
+    },
+    {
+      "$oid": "65879f1b8415c929a8a82705"
+    },
+    {
+      "$oid": "65879f658415c929a8a82725"
+    },
+    {
+      "$oid": "65879fb38415c929a8a8274f"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-24T02:54:38.322Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:04:19.927Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "6587a0fb8415c929a8a8282c"
+  },
+  "name": "laptop",
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387386/blog-api/i60iiqghh8mnqdwcmyef.jpg",
+  "products": [
+    {
+      "$oid": "6587a18e8415c929a8a828cc"
+    },
+    {
+      "$oid": "6587a2038415c929a8a828f7"
+    },
+    {
+      "$oid": "6587a2428415c929a8a828ff"
+    },
+    {
+      "$oid": "6587a26f8415c929a8a82919"
+    },
+    {
+      "$oid": "6587a2af8415c929a8a8293f"
+    },
+    {
+      "$oid": "6587a2ed8415c929a8a82959"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-24T03:09:47.234Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:18:05.406Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "6587a34a8415c929a8a829b7"
+  },
+  "name": "table",
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387978/blog-api/jrn8eamh5a6tiyjzw0ki.jpg",
+  "products": [
+    {
+      "$oid": "6587a3e28415c929a8a829d7"
+    },
+    {
+      "$oid": "6587a4798415c929a8a82a47"
+    },
+    {
+      "$oid": "6587a4c18415c929a8a82a4f"
+    },
+    {
+      "$oid": "6587a5178415c929a8a82a8d"
+    },
+    {
+      "$oid": "6587a5518415c929a8a82ab9"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-24T03:19:38.319Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:28:17.593Z"
+  },
+  "__v": 5
+}]

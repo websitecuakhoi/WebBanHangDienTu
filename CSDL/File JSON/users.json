@@ -1,0 +1,124 @@
+[{
+  "_id": {
+    "$oid": "65879b14510b611f6dbe0d3b"
+  },
+  "fullname": "Customer",
+  "email": "customer@gmail.com",
+  "password": "$2a$10$RHwbf4Uw.OghYIHGGFC/P.4WPzv2iA8Hc80kwdcz6wfRR0PwLmMXa",
+  "orders": [],
+  "wishLists": [],
+  "isAdmin": false,
+  "hasShippingAddress": false,
+  "createdAt": {
+    "$date": "2023-12-24T02:44:36.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T02:44:36.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "fullname": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$Tqgudl5el4CFxXEFw2t9XOiS93qXb5mQjO7Dc4KCXno1XF6082pbS",
+  "orders": [
+    {
+      "$oid": "6587a0798415c929a8a827e2"
+    },
+    {
+      "$oid": "6589486b038cff3a16dc6f6f"
+    },
+    {
+      "$oid": "65894b0a038cff3a16dc6fc5"
+    },
+    {
+      "$oid": "65895388038cff3a16dc7099"
+    }
+  ],
+  "wishLists": [],
+  "isAdmin": true,
+  "hasShippingAddress": true,
+  "createdAt": {
+    "$date": "2023-12-24T02:46:55.070Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T10:03:52.582Z"
+  },
+  "__v": 4,
+  "shippingAddress": {
+    "firstName": "Trần ",
+    "lastName": "Khôi",
+    "address": "Ninh thuận",
+    "city": "hồ chí minh",
+    "postalCode": "123456",
+    "phone": "0971016902",
+    "country": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "6588ed72bad67b21dcfafc99"
+  },
+  "fullname": "Quy",
+  "email": "vanqui8028@gmail.com",
+  "password": "$2a$10$OmDkF2wxjffigDDxJ1Lo.erFRQZ8AS9V6M8y5UHInC53gYRL9NHlO",
+  "orders": [
+    {
+      "$oid": "6588ef2d71136268159e9437"
+    }
+  ],
+  "wishLists": [],
+  "isAdmin": false,
+  "hasShippingAddress": true,
+  "createdAt": {
+    "$date": "2023-12-25T02:48:18.334Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T02:55:41.943Z"
+  },
+  "__v": 1,
+  "shippingAddress": {
+    "firstName": "Lee",
+    "lastName": "Van Quy",
+    "address": "280 An Duong Vuong",
+    "city": "TPHCM",
+    "postalCode": "7000000",
+    "phone": "0768806707",
+    "country": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65890f0571136268159e9595"
+  },
+  "fullname": "Honag",
+  "email": "abx@gmail.com",
+  "password": "$2a$10$mDTVLYqLEY7wy3EtLlHF0O8EZ9GzNw.1SLKulvybubYTt610/dv/2",
+  "orders": [
+    {
+      "$oid": "65890f6671136268159e95c2"
+    }
+  ],
+  "wishLists": [],
+  "isAdmin": false,
+  "hasShippingAddress": true,
+  "createdAt": {
+    "$date": "2023-12-25T05:11:33.119Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T05:13:10.196Z"
+  },
+  "__v": 1,
+  "shippingAddress": {
+    "firstName": "Le",
+    "lastName": "q",
+    "address": "280 an dương vương",
+    "city": "HCM",
+    "postalCode": "700000",
+    "phone": "0768806707",
+    "country": ""
+  }
+}]

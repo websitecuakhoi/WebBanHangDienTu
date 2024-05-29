@@ -1,0 +1,9 @@
+node_modules
+.env
+# Ignore build output
+/bin
+/obj
+/dist
+# Ignore packages
+/packages
+.vscode

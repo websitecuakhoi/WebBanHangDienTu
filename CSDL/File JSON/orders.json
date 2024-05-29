@@ -1,0 +1,269 @@
+[{
+  "_id": {
+    "$oid": "6587a0798415c929a8a827e2"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "orderItems": [
+    {
+      "_id": "65879eb58415c929a8a826eb",
+      "name": "Samsung Galaxy A15 5G",
+      "qty": 1,
+      "price": 200,
+      "description": "Chip MediaTek Dimensity 6100+\r\nRAM: 8 GB\r\nDung lượng: 256 GB\r\nCamera sau: Chính 50 MP & Phụ 5 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+      "color": "green",
+      "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386805/blog-api/vmcxr0lihg8bgjtb5prg.jpg",
+      "totalPrice": 200,
+      "qtyLeft": 24
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Trần ",
+    "lastName": "Khôi",
+    "address": "Ninh thuận",
+    "city": "hồ chí minh",
+    "postalCode": "123456",
+    "phone": "0971016902",
+    "country": ""
+  },
+  "orderNumber": "LKX7F69966",
+  "paymentStatus": "Not paid",
+  "paymentMethod": "Not specified",
+  "totalPrice": 200,
+  "currency": "Not specified",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-24T03:07:37.959Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-24T03:07:37.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6588ef2d71136268159e9437"
+  },
+  "user": {
+    "$oid": "6588ed72bad67b21dcfafc99"
+  },
+  "orderItems": [
+    {
+      "_id": "6587a2038415c929a8a828f7",
+      "name": "Acer Aspire 5 Gaming A515 58GM 51LB i5 13420H",
+      "qty": 1,
+      "price": 500,
+      "description": "Màn hình: 15.6\", Full HD\r\nCPU: i5, 13420H, 2.1GHz\r\nCard: RTX 2050 4GB\r\nPin: 3-cell, 50Wh\r\nKhối lượng: 1.7 kg",
+      "color": "blue",
+      "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387650/blog-api/rxr1eamsym0e0dci44zi.jpg",
+      "totalPrice": 500,
+      "qtyLeft": 14
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Lee",
+    "lastName": "Van Quy",
+    "address": "280 An Duong Vuong",
+    "city": "TPHCM",
+    "postalCode": "7000000",
+    "phone": "0768806707",
+    "country": ""
+  },
+  "orderNumber": "HJ33O939765",
+  "paymentStatus": "paid",
+  "paymentMethod": "card",
+  "totalPrice": 500,
+  "currency": "usd",
+  "status": "delivered",
+  "createdAt": {
+    "$date": "2023-12-25T02:55:41.751Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T03:03:48.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65890f6671136268159e95c2"
+  },
+  "user": {
+    "$oid": "65890f0571136268159e9595"
+  },
+  "orderItems": [
+    {
+      "_id": "6587a2038415c929a8a828f7",
+      "name": "Acer Aspire 5 Gaming A515 58GM 51LB i5 13420H",
+      "qty": 1,
+      "price": 500,
+      "description": "Màn hình: 15.6\", Full HD\r\nCPU: i5, 13420H, 2.1GHz\r\nCard: RTX 2050 4GB\r\nPin: 3-cell, 50Wh\r\nKhối lượng: 1.7 kg",
+      "color": "blue",
+      "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703387650/blog-api/rxr1eamsym0e0dci44zi.jpg",
+      "totalPrice": 500,
+      "qtyLeft": 14
+    },
+    {
+      "_id": "65879e5c8415c929a8a826cb",
+      "name": "Samsung Galaxy A15",
+      "qty": 1,
+      "price": 100,
+      "description": "Chip MediaTek Helio G99\r\nRAM: 8 GB\r\nDung lượng: 128 GB\r\nCamera sau: Chính 50 MP & Phụ 5 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+      "color": "red",
+      "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386715/blog-api/h2k4qaeqqvwp0hjvcm4r.jpg",
+      "totalPrice": 100,
+      "qtyLeft": 20
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Le",
+    "lastName": "q",
+    "address": "280 an dương vương",
+    "city": "HCM",
+    "postalCode": "700000",
+    "phone": "0768806707",
+    "country": ""
+  },
+  "orderNumber": "HJ33O939765",
+  "paymentStatus": "Not paid",
+  "paymentMethod": "Not specified",
+  "totalPrice": 600,
+  "currency": "Not specified",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-25T05:13:10.062Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T05:13:10.062Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6589486b038cff3a16dc6f6f"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "orderItems": [
+    {
+      "_id": "65879e5c8415c929a8a826cb",
+      "name": "Samsung Galaxy A15",
+      "qty": 1,
+      "price": 100,
+      "description": "Chip MediaTek Helio G99\r\nRAM: 8 GB\r\nDung lượng: 128 GB\r\nCamera sau: Chính 50 MP & Phụ 5 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+      "color": "black",
+      "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386715/blog-api/h2k4qaeqqvwp0hjvcm4r.jpg",
+      "totalPrice": 100,
+      "qtyLeft": 19
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Trần ",
+    "lastName": "Khôi",
+    "address": "Ninh thuận",
+    "city": "hồ chí minh",
+    "postalCode": "123456",
+    "phone": "0971016902",
+    "country": ""
+  },
+  "orderNumber": "P6JENJ2204",
+  "paymentStatus": "Not paid",
+  "paymentMethod": "Not specified",
+  "totalPrice": 100,
+  "currency": "Not specified",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-25T09:16:27.215Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T09:16:27.215Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65894b0a038cff3a16dc6fc5"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "orderItems": [
+    {
+      "_id": "65879e5c8415c929a8a826cb",
+      "name": "Samsung Galaxy A15",
+      "qty": 1,
+      "price": 100,
+      "description": "Chip MediaTek Helio G99\r\nRAM: 8 GB\r\nDung lượng: 128 GB\r\nCamera sau: Chính 50 MP & Phụ 5 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+      "color": "red",
+      "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386715/blog-api/h2k4qaeqqvwp0hjvcm4r.jpg",
+      "totalPrice": 100,
+      "qtyLeft": 18
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Trần ",
+    "lastName": "Khôi",
+    "address": "Ninh thuận",
+    "city": "hồ chí minh",
+    "postalCode": "123456",
+    "phone": "0971016902",
+    "country": ""
+  },
+  "orderNumber": "P6JENJ2204",
+  "paymentStatus": "paid",
+  "paymentMethod": "card",
+  "totalPrice": 100,
+  "currency": "usd",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-25T09:27:38.216Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T09:27:58.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65895388038cff3a16dc7099"
+  },
+  "user": {
+    "$oid": "65879b9f510b611f6dbe0d64"
+  },
+  "orderItems": [
+    {
+      "_id": "65879eb58415c929a8a826eb",
+      "name": "Samsung Galaxy A15 5G",
+      "qty": 1,
+      "price": 200,
+      "description": "Chip MediaTek Dimensity 6100+\r\nRAM: 8 GB\r\nDung lượng: 256 GB\r\nCamera sau: Chính 50 MP & Phụ 5 MP, 2 MP\r\nCamera trước: 13 MP\r\nPin 5000 mAh, Sạc 25 W",
+      "color": "white",
+      "image": "https://res.cloudinary.com/dqtjhtikp/image/upload/v1703386805/blog-api/vmcxr0lihg8bgjtb5prg.jpg",
+      "totalPrice": 200,
+      "qtyLeft": 23
+    }
+  ],
+  "shippingAddress": {
+    "firstName": "Trần ",
+    "lastName": "Khôi",
+    "address": "Ninh thuận",
+    "city": "hồ chí minh",
+    "postalCode": "123456",
+    "phone": "0971016902",
+    "country": ""
+  },
+  "orderNumber": "P6JENJ2204",
+  "paymentStatus": "Not paid",
+  "paymentMethod": "Not specified",
+  "totalPrice": 200,
+  "currency": "Not specified",
+  "status": "pending",
+  "createdAt": {
+    "$date": "2023-12-25T10:03:52.472Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-25T10:03:52.472Z"
+  },
+  "__v": 0
+}]
